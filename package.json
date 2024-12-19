@@ -1,0 +1,15 @@
+{
+  "name": "auvo_teste_tecnico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Jefferson Barbosa",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
